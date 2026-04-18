@@ -43,16 +43,13 @@ Some visual artifacts may still occur in fast-paced scenes
 Latency can still vary depending on configuration
 Not equivalent to native DLSS 3 Frame Generation
 Results differ per game
+
 Installation
-
-(Add your own steps here)
-
-Example:
 
 Download the latest release
 Copy files into the game directory
-Enable the mod via config or overlay
 Select frame generation mode (x3 / x4)
+
 Notes
 
 This project is intended for experimentation and research into frame generation techniques on unsupported hardware. It aims to explore what is possible beyond official hardware restrictions.
